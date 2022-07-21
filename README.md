@@ -15,4 +15,4 @@ A practice code while learning pygame.
 ### My highscore : 10 try and beat it
 
 ##  Project Snapshots
-<img src="sc.png" width="500px"> <img src="sc1.png" width="500px">
+<img src="sc.png" width="500px"> <img src="sc 2.png" width="500px">
