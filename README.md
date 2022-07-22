@@ -4,7 +4,7 @@ Flappy guy, A flappy bird clone, old but GOLD.
 
 A practice code while learning pygame.
 
-###Clone/Download, Run and Enjoy
+### Clone/Download, Run and Enjoy
 
 ### Tutorial I followed [Click Me](https://copyassignment.com/flappy-bird-in-python-pygame-with-source-code/)
 
